@@ -1,0 +1,1115 @@
+{
+  "ingredients": {
+    "retinol": {
+      "category": "active",
+      "function": [
+        "anti_aging",
+        "cell_turnover"
+      ],
+      "time_restriction": "pm_only",
+      "photosensitizing": true,
+      "strength": "strong",
+      "conflicts_with": [
+        "salicylic acid",
+        "glycolic acid",
+        "ascorbic acid",
+        "lactic acid"
+      ],
+      "synergies_with": [],
+      "contraindicated_for": [
+        "pregnancy",
+        "sensitivity",
+        "rosacea"
+      ],
+      "description": ""
+    },
+    "retinyl palmitate": {
+      "category": "active",
+      "function": [
+        "anti_aging"
+      ],
+      "time_restriction": "pm_preferred",
+      "photosensitizing": true,
+      "strength": "moderate",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "retinal": {
+      "category": "active",
+      "function": [
+        "anti_aging",
+        "cell_turnover"
+      ],
+      "time_restriction": "pm_only",
+      "photosensitizing": true,
+      "strength": "strong",
+      "conflicts_with": [
+        "salicylic acid",
+        "glycolic acid"
+      ],
+      "synergies_with": [],
+      "contraindicated_for": [
+        "pregnancy"
+      ],
+      "description": ""
+    },
+    "bakuchiol": {
+      "category": "active",
+      "function": [
+        "anti_aging"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "ascorbic acid": {
+      "category": "active",
+      "function": [
+        "antioxidant",
+        "brightening",
+        "collagen_boost"
+      ],
+      "time_restriction": "am_preferred",
+      "photosensitizing": false,
+      "strength": "moderate",
+      "conflicts_with": [
+        "retinol"
+      ],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "ascorbyl glucoside": {
+      "category": "active",
+      "function": [
+        "antioxidant",
+        "brightening"
+      ],
+      "time_restriction": "am_preferred",
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "sodium ascorbyl phosphate": {
+      "category": "active",
+      "function": [
+        "antioxidant",
+        "brightening"
+      ],
+      "time_restriction": "am_preferred",
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "ascorbyl tetraisopalmitate": {
+      "category": "active",
+      "function": [
+        "antioxidant",
+        "brightening"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "tetrahexyldecyl ascorbate": {
+      "category": "active",
+      "function": [
+        "antioxidant",
+        "brightening"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "moderate",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "ethyl ascorbic acid": {
+      "category": "active",
+      "function": [
+        "antioxidant",
+        "brightening"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "moderate",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "glycolic acid": {
+      "category": "active",
+      "function": [
+        "exfoliant",
+        "brightening"
+      ],
+      "time_restriction": "pm_only",
+      "photosensitizing": true,
+      "strength": "strong",
+      "conflicts_with": [
+        "retinol",
+        "salicylic acid"
+      ],
+      "synergies_with": [],
+      "contraindicated_for": [
+        "sensitivity",
+        "rosacea"
+      ],
+      "description": ""
+    },
+    "lactic acid": {
+      "category": "active",
+      "function": [
+        "exfoliant",
+        "hydration"
+      ],
+      "time_restriction": "pm_only",
+      "photosensitizing": true,
+      "strength": "moderate",
+      "conflicts_with": [
+        "retinol"
+      ],
+      "synergies_with": [],
+      "contraindicated_for": [
+        "sensitivity"
+      ],
+      "description": ""
+    },
+    "salicylic acid": {
+      "category": "active",
+      "function": [
+        "exfoliant",
+        "acne_treatment",
+        "pore_clearing"
+      ],
+      "time_restriction": "pm_preferred",
+      "photosensitizing": true,
+      "strength": "moderate",
+      "conflicts_with": [
+        "retinol",
+        "glycolic acid"
+      ],
+      "synergies_with": [],
+      "contraindicated_for": [
+        "sensitivity",
+        "rosacea",
+        "pregnancy"
+      ],
+      "description": ""
+    },
+    "mandelic acid": {
+      "category": "active",
+      "function": [
+        "exfoliant",
+        "brightening"
+      ],
+      "time_restriction": "pm_preferred",
+      "photosensitizing": true,
+      "strength": "moderate",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "azelaic acid": {
+      "category": "active",
+      "function": [
+        "anti_inflammatory",
+        "brightening",
+        "acne_treatment"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "moderate",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "citric acid": {
+      "category": "active",
+      "function": [
+        "exfoliant"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "kojic acid": {
+      "category": "active",
+      "function": [
+        "brightening"
+      ],
+      "time_restriction": null,
+      "photosensitizing": true,
+      "strength": "moderate",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [
+        "sensitivity"
+      ],
+      "description": ""
+    },
+    "ferulic acid": {
+      "category": "antioxidant",
+      "function": [
+        "antioxidant"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "sodium hyaluronate": {
+      "category": "humectant",
+      "function": [
+        "hydration",
+        "plumping"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "hyaluronic acid": {
+      "category": "humectant",
+      "function": [
+        "hydration",
+        "plumping"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "glycerin": {
+      "category": "humectant",
+      "function": [
+        "hydration"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "butylene glycol": {
+      "category": "humectant",
+      "function": [
+        "hydration"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "propanediol": {
+      "category": "humectant",
+      "function": [
+        "hydration"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "pentylene glycol": {
+      "category": "humectant",
+      "function": [
+        "hydration"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "squalane": {
+      "category": "humectant",
+      "function": [
+        "hydration",
+        "barrier_repair"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "ceramide np": {
+      "category": "humectant",
+      "function": [
+        "barrier_repair",
+        "hydration"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "ceramide ap": {
+      "category": "humectant",
+      "function": [
+        "barrier_repair",
+        "hydration"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "ceramide eop": {
+      "category": "humectant",
+      "function": [
+        "barrier_repair",
+        "hydration"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "panthenol": {
+      "category": "humectant",
+      "function": [
+        "hydration",
+        "barrier_repair",
+        "anti_inflammatory"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "allantoin": {
+      "category": "humectant",
+      "function": [
+        "hydration",
+        "anti_inflammatory"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "urea": {
+      "category": "active",
+      "function": [
+        "hydration",
+        "exfoliant"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "shea butter": {
+      "category": "humectant",
+      "function": [
+        "hydration",
+        "barrier_repair"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "butyrospermum parkii (shea) butter": {
+      "category": "humectant",
+      "function": [
+        "hydration",
+        "barrier_repair"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "niacinamide": {
+      "category": "active",
+      "function": [
+        "oil_control",
+        "brightening",
+        "barrier_repair",
+        "anti_inflammatory"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "palmitoyl tripeptide-1": {
+      "category": "active",
+      "function": [
+        "anti_aging",
+        "collagen_boost"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "palmitoyl tetrapeptide-7": {
+      "category": "active",
+      "function": [
+        "anti_aging",
+        "anti_inflammatory"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "acetyl hexapeptide-8": {
+      "category": "active",
+      "function": [
+        "anti_aging"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "copper tripeptide-1": {
+      "category": "active",
+      "function": [
+        "anti_aging",
+        "wound_healing"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "moderate",
+      "conflicts_with": [
+        "ascorbic acid"
+      ],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "centella asiatica extract": {
+      "category": "humectant",
+      "function": [
+        "anti_inflammatory",
+        "barrier_repair",
+        "wound_healing"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "madecassoside": {
+      "category": "soothing",
+      "function": [
+        "anti_inflammatory",
+        "wound_healing"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "bisabolol": {
+      "category": "soothing",
+      "function": [
+        "anti_inflammatory"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "aloe barbadensis leaf extract": {
+      "category": "humectant",
+      "function": [
+        "anti_inflammatory",
+        "hydration"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "chamomilla recutita (matricaria) flower extract": {
+      "category": "soothing",
+      "function": [
+        "anti_inflammatory"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "calendula officinalis flower extract": {
+      "category": "soothing",
+      "function": [
+        "anti_inflammatory",
+        "wound_healing"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "tocopherol": {
+      "category": "antioxidant",
+      "function": [
+        "antioxidant"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "tocopheryl acetate": {
+      "category": "antioxidant",
+      "function": [
+        "antioxidant"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "camellia sinensis leaf extract": {
+      "category": "soothing",
+      "function": [
+        "antioxidant",
+        "anti_inflammatory"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "resveratrol": {
+      "category": "active",
+      "function": [
+        "antioxidant",
+        "anti_aging"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "ubiquinone": {
+      "category": "active",
+      "function": [
+        "antioxidant",
+        "anti_aging"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "benzoyl peroxide": {
+      "category": "active",
+      "function": [
+        "acne_treatment",
+        "antibacterial"
+      ],
+      "time_restriction": "pm_preferred",
+      "photosensitizing": true,
+      "strength": "strong",
+      "conflicts_with": [
+        "retinol",
+        "ascorbic acid"
+      ],
+      "synergies_with": [],
+      "contraindicated_for": [
+        "sensitivity",
+        "rosacea",
+        "dryness"
+      ],
+      "description": ""
+    },
+    "tea tree oil": {
+      "category": "active",
+      "function": [
+        "acne_treatment",
+        "antibacterial"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "moderate",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [
+        "sensitivity"
+      ],
+      "description": ""
+    },
+    "melaleuca alternifolia (tea tree) leaf oil": {
+      "category": "active",
+      "function": [
+        "acne_treatment",
+        "antibacterial"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "moderate",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [
+        "sensitivity"
+      ],
+      "description": ""
+    },
+    "zinc oxide": {
+      "category": "sunscreen",
+      "function": [
+        "sun_protection",
+        "anti_inflammatory"
+      ],
+      "time_restriction": "am_only",
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "zinc pca": {
+      "category": "soothing",
+      "function": [
+        "oil_control",
+        "anti_inflammatory"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "sulfur": {
+      "category": "active",
+      "function": [
+        "acne_treatment"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "moderate",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [
+        "sensitivity",
+        "dryness"
+      ],
+      "description": ""
+    },
+    "kaolin": {
+      "category": "active",
+      "function": [
+        "oil_control"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [
+        "dryness"
+      ],
+      "description": ""
+    },
+    "bentonite": {
+      "category": "active",
+      "function": [
+        "oil_control"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "moderate",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [
+        "dryness",
+        "sensitivity"
+      ],
+      "description": ""
+    },
+    "alpha-arbutin": {
+      "category": "active",
+      "function": [
+        "brightening"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "arbutin": {
+      "category": "active",
+      "function": [
+        "brightening"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "tranexamic acid": {
+      "category": "active",
+      "function": [
+        "brightening"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "moderate",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "licorice root extract": {
+      "category": "active",
+      "function": [
+        "brightening",
+        "anti_inflammatory"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "glycyrrhiza glabra (licorice) root extract": {
+      "category": "active",
+      "function": [
+        "brightening",
+        "anti_inflammatory"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "caffeine": {
+      "category": "soothing",
+      "function": [
+        "circulation",
+        "anti_inflammatory"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "vitamin k": {
+      "category": "other",
+      "function": [
+        "circulation"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "titanium dioxide": {
+      "category": "sunscreen",
+      "function": [
+        "sun_protection"
+      ],
+      "time_restriction": "am_only",
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "octinoxate": {
+      "category": "sunscreen",
+      "function": [
+        "sun_protection"
+      ],
+      "time_restriction": "am_only",
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "ethylhexyl methoxycinnamate": {
+      "category": "sunscreen",
+      "function": [
+        "sun_protection"
+      ],
+      "time_restriction": "am_only",
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "homosalate": {
+      "category": "sunscreen",
+      "function": [
+        "sun_protection"
+      ],
+      "time_restriction": "am_only",
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "avobenzone": {
+      "category": "sunscreen",
+      "function": [
+        "sun_protection"
+      ],
+      "time_restriction": "am_only",
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "octocrylene": {
+      "category": "sunscreen",
+      "function": [
+        "sun_protection"
+      ],
+      "time_restriction": "am_only",
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "dimethicone": {
+      "category": "humectant",
+      "function": [
+        "barrier_repair"
+      ],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    },
+    "cyclopentasiloxane": {
+      "category": "other",
+      "function": [],
+      "time_restriction": null,
+      "photosensitizing": false,
+      "strength": "gentle",
+      "conflicts_with": [],
+      "synergies_with": [],
+      "contraindicated_for": [],
+      "description": ""
+    }
+  },
+  "routine_order": {
+    "am": [
+      "cleanser",
+      "toner",
+      "serum",
+      "eye_cream",
+      "moisturizer",
+      "sunscreen"
+    ],
+    "pm": [
+      "cleanser",
+      "toner",
+      "serum",
+      "treatment",
+      "eye_cream",
+      "moisturizer",
+      "face_oil"
+    ]
+  },
+  "rules": {
+    "mandatory_am": [
+      "sunscreen"
+    ],
+    "mandatory_both": [
+      "cleanser",
+      "moisturizer"
+    ],
+    "optional_categories": [
+      "toner",
+      "serum",
+      "eye_cream",
+      "treatment",
+      "face_oil",
+      "face_mask"
+    ],
+    "max_actives_per_routine": 2,
+    "avoid_combinations": [
+      [
+        "retinol",
+        "ascorbic acid"
+      ],
+      [
+        "retinol",
+        "salicylic acid"
+      ],
+      [
+        "retinol",
+        "glycolic acid"
+      ],
+      [
+        "retinol",
+        "lactic acid"
+      ],
+      [
+        "glycolic acid",
+        "salicylic acid"
+      ],
+      [
+        "benzoyl peroxide",
+        "retinol"
+      ],
+      [
+        "benzoyl peroxide",
+        "ascorbic acid"
+      ],
+      [
+        "copper tripeptide-1",
+        "ascorbic acid"
+      ]
+    ]
+  }
+}

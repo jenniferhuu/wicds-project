@@ -1,0 +1,375 @@
+{
+  "user_profile": {
+    "skin_type": "combination",
+    "concerns": [
+      "acne",
+      "dullness",
+      "fine_lines"
+    ],
+    "allergies": [],
+    "age_range": "30s",
+    "climate": "temperate",
+    "budget": "any",
+    "pregnancy": false,
+    "sensitivity_level": "normal",
+    "effective_concerns": [
+      "dullness",
+      "fine_lines",
+      "acne"
+    ],
+    "effective_avoid_conditions": [
+      "acne"
+    ]
+  },
+  "am_routine": [
+    {
+      "id": "p0565",
+      "name": "Fresh Pressed Renewing Powder Cleanser with Pure Vitamin C",
+      "brand": "CLINIQUE",
+      "category": "cleanser",
+      "time_of_day": "both",
+      "skin_types": [
+        "combination",
+        "dry",
+        "normal",
+        "oily",
+        "sensitive"
+      ],
+      "concerns_addressed": [
+        "acne",
+        "blackheads",
+        "dullness",
+        "excess_oil",
+        "fine_lines",
+        "hyperpigmentation",
+        "pores",
+        "sun_damage"
+      ],
+      "key_ingredients": [
+        "kaolin",
+        "ascorbic acid",
+        "salicylic acid"
+      ],
+      "texture": "varies",
+      "price": 29,
+      "price_range": "mid",
+      "rank": 4.9,
+      "avoid_with_conditions": [
+        "dryness",
+        "pregnancy",
+        "rosacea",
+        "sensitivity"
+      ],
+      "description": "CLINIQUE Fresh Pressed Renewing Powder Cleanser with Pure Vitamin C \u2014 Cleanser",
+      "similarity_score": 0.5411180772744062,
+      "cosine_score": 0.4149502312119845,
+      "quality_score": 0.8355097180867237
+    },
+    {
+      "id": "p0695",
+      "name": "Fresh Pressed Daily Booster with Pure Vitamin C 10%",
+      "brand": "CLINIQUE",
+      "category": "serum",
+      "time_of_day": "both",
+      "skin_types": [
+        "combination",
+        "dry",
+        "normal",
+        "oily",
+        "sensitive"
+      ],
+      "concerns_addressed": [
+        "acne",
+        "blackheads",
+        "dark_circles",
+        "dryness",
+        "dullness",
+        "excess_oil",
+        "fine_lines",
+        "hyperpigmentation",
+        "pores",
+        "puffiness",
+        "sensitivity",
+        "sun_damage",
+        "wrinkles"
+      ],
+      "key_ingredients": [
+        "ascorbic acid",
+        "glycerin",
+        "dimethicone",
+        "squalane",
+        "butylene glycol",
+        "acetyl hexapeptide-8",
+        "palmitoyl tripeptide-1",
+        "palmitoyl tetrapeptide-7",
+        "caffeine",
+        "salicylic acid"
+      ],
+      "texture": "varies",
+      "price": 19,
+      "price_range": "budget",
+      "rank": 4.0,
+      "avoid_with_conditions": [
+        "pregnancy",
+        "rosacea",
+        "sensitivity"
+      ],
+      "description": "CLINIQUE Fresh Pressed Daily Booster with Pure Vitamin C 10% \u2014 Treatment",
+      "similarity_score": 0.5394900108661149,
+      "cosine_score": 0.39198848575230927,
+      "quality_score": 0.8836602361316617
+    },
+    {
+      "id": "p1259",
+      "name": "Hello FAB Kona Eye Stick",
+      "brand": "FIRST AID BEAUTY",
+      "category": "eye_cream",
+      "time_of_day": "am",
+      "skin_types": [
+        "combination",
+        "dry",
+        "normal",
+        "oily",
+        "sensitive"
+      ],
+      "concerns_addressed": [
+        "dryness",
+        "dullness",
+        "fine_lines",
+        "hyperpigmentation",
+        "redness",
+        "sun_damage",
+        "texture"
+      ],
+      "key_ingredients": [
+        "butylene glycol",
+        "glycerin",
+        "sodium hyaluronate",
+        "glycyrrhiza glabra (licorice) root extract",
+        "camellia sinensis leaf extract",
+        "ethylhexylglycerin",
+        "propanediol",
+        "citric acid",
+        "ci 77891 (titanium dioxide)"
+      ],
+      "texture": "varies",
+      "price": 24,
+      "price_range": "budget",
+      "rank": 3.7,
+      "avoid_with_conditions": [],
+      "description": "FIRST AID BEAUTY Hello FAB Kona Eye Stick \u2014 Eye cream",
+      "similarity_score": 0.47765011380204186,
+      "cosine_score": 0.2756841994372623,
+      "quality_score": 0.9489039139865276
+    },
+    {
+      "id": "p0155",
+      "name": "Dr. Andrew Weil For Origins\u2122 Mega-Bright SPF 30 Skin Tone Correcting Oil-Free Moisturizer",
+      "brand": "ORIGINS",
+      "category": "moisturizer",
+      "time_of_day": "both",
+      "skin_types": [
+        "combination",
+        "dry",
+        "normal",
+        "oily"
+      ],
+      "concerns_addressed": [
+        "acne",
+        "blackheads",
+        "dryness",
+        "dullness",
+        "excess_oil",
+        "fine_lines",
+        "hyperpigmentation",
+        "pores",
+        "sensitivity",
+        "sun_damage"
+      ],
+      "key_ingredients": [
+        "butylene glycol",
+        "dimethicone",
+        "ascorbyl glucoside",
+        "glycerin",
+        "salicylic acid",
+        "sodium hyaluronate",
+        "tocopheryl acetate",
+        "squalane"
+      ],
+      "texture": "varies",
+      "price": 56,
+      "price_range": "mid",
+      "rank": 4.1,
+      "avoid_with_conditions": [
+        "pregnancy",
+        "rosacea",
+        "sensitivity"
+      ],
+      "description": "ORIGINS Dr. Andrew Weil For Origins\u2122 Mega-Bright SPF 30 Skin Tone Correcting Oil-Free Moisturizer \u2014 Moisturizer",
+      "similarity_score": 0.5416254378189044,
+      "cosine_score": 0.35790291188833484,
+      "quality_score": 0.9703113316569002
+    },
+    {
+      "id": "p1314",
+      "name": "City Skin Age Defense Broad Spectrum SPF 50 PA++++",
+      "brand": "MURAD",
+      "category": "sunscreen",
+      "time_of_day": "am",
+      "skin_types": [
+        "combination",
+        "dry",
+        "normal",
+        "sensitive"
+      ],
+      "concerns_addressed": [
+        "dryness",
+        "dullness",
+        "fine_lines",
+        "hyperpigmentation",
+        "redness",
+        "sensitivity",
+        "sun_damage",
+        "texture"
+      ],
+      "key_ingredients": [
+        "dimethicone",
+        "glycerin",
+        "tocopheryl acetate",
+        "polyglyceryl-3 polydimethylsiloxyethyl dimethicone",
+        "retinyl palmitate",
+        "ascorbic acid",
+        "bisabolol",
+        "urea",
+        "pentylene glycol",
+        "butylene glycol"
+      ],
+      "texture": "varies",
+      "price": 65,
+      "price_range": "premium",
+      "rank": 4.7,
+      "avoid_with_conditions": [],
+      "description": "MURAD City Skin Age Defense Broad Spectrum SPF 50 PA++++ \u2014 Sun protect",
+      "similarity_score": 0.5176037165896987,
+      "cosine_score": 0.32000736677401864,
+      "quality_score": 0.9786618661596193
+    }
+  ],
+  "pm_routine": [
+    {
+      "id": "p0464",
+      "name": "Detox Daily Cleanser",
+      "brand": "KATE SOMERVILLE",
+      "category": "cleanser",
+      "time_of_day": "pm",
+      "skin_types": [
+        "combination",
+        "normal",
+        "oily"
+      ],
+      "concerns_addressed": [
+        "acne",
+        "blackheads",
+        "dryness",
+        "dullness",
+        "excess_oil",
+        "fine_lines",
+        "hyperpigmentation",
+        "pores",
+        "redness",
+        "sensitivity",
+        "texture"
+      ],
+      "key_ingredients": [
+        "glycerin",
+        "salicylic acid",
+        "butylene glycol",
+        "melaleuca alternifolia (tea tree) leaf oil",
+        "urea",
+        "panthenol",
+        "glycolic acid",
+        "lactic acid",
+        "allantoin",
+        "citric acid"
+      ],
+      "texture": "varies",
+      "price": 36,
+      "price_range": "mid",
+      "rank": 4.3,
+      "avoid_with_conditions": [
+        "pregnancy",
+        "rosacea",
+        "sensitivity"
+      ],
+      "description": "KATE SOMERVILLE Detox Daily Cleanser \u2014 Cleanser",
+      "similarity_score": 0.5866775277485285,
+      "cosine_score": 0.43393223554888627,
+      "quality_score": 0.943083209547694
+    },
+    {
+      "id": "p0128",
+      "name": "Wild Rose + Vitamin C Advanced Brightening Sleeping Facial",
+      "brand": "KORRES",
+      "category": "moisturizer",
+      "time_of_day": "pm",
+      "skin_types": [
+        "combination",
+        "dry",
+        "normal",
+        "oily",
+        "sensitive"
+      ],
+      "concerns_addressed": [
+        "acne",
+        "dryness",
+        "dullness",
+        "fine_lines",
+        "hyperpigmentation",
+        "redness",
+        "rosacea",
+        "sensitivity",
+        "sun_damage",
+        "texture"
+      ],
+      "key_ingredients": [
+        "glycerin",
+        "ascorbyl tetraisopalmitate",
+        "citric acid",
+        "phosphate",
+        "oil",
+        "hyaluronate",
+        "lactic acid",
+        "leaf extract",
+        "extract",
+        "tocopherol"
+      ],
+      "texture": "varies",
+      "price": 48,
+      "price_range": "mid",
+      "rank": 4.4,
+      "avoid_with_conditions": [
+        "sensitivity"
+      ],
+      "description": "KORRES Wild Rose + Vitamin C Advanced Brightening Sleeping Facial \u2014 Moisturizer",
+      "similarity_score": 0.5174705136295082,
+      "cosine_score": 0.33957628940163653,
+      "quality_score": 0.9325570368278755
+    }
+  ],
+  "am_validation": {
+    "valid": true,
+    "errors": [],
+    "warnings": [
+      "Routine has 3 actives (max recommended: 2)"
+    ],
+    "synergies": []
+  },
+  "pm_validation": {
+    "valid": true,
+    "errors": [],
+    "warnings": [
+      "Routine has 4 actives (max recommended: 2)"
+    ],
+    "synergies": []
+  }
+}
