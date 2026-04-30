@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>SkinSync Skincare Recommender</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="profile-panel" aria-labelledby="app-title">
+        <div class="brand-row">
+          <div>
+            <p class="eyebrow">WiCDS ML Demo</p>
+            <h1 id="app-title">SkinSync</h1>
+          </div>
+          <span class="status-pill" id="status-pill">Loading model</span>
+        </div>
+
+        <form id="profile-form">
+          <div class="field-grid">
+            <label>
+              Skin type
+              <select name="skin_type" id="skin-type"></select>
+            </label>
+            <label>
+              Age range
+              <select name="age_range" id="age-range"></select>
+            </label>
+            <label>
+              Climate
+              <select name="climate" id="climate"></select>
+            </label>
+            <label>
+              Budget
+              <select name="budget" id="budget"></select>
+            </label>
+            <label>
+              Sensitivity
+              <select name="sensitivity_level" id="sensitivity-level"></select>
+            </label>
+          </div>
+
+          <fieldset>
+            <legend>Concerns</legend>
+            <div class="chip-grid" id="concerns"></div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Avoid ingredients</legend>
+            <div class="chip-grid" id="allergies"></div>
+          </fieldset>
+
+          <label class="toggle-row">
+            <input type="checkbox" name="pregnancy" />
+            Pregnancy-safe filtering
+          </label>
+
+          <button type="submit">Build routine</button>
+        </form>
+      </section>
+
+      <section class="results-panel" aria-live="polite">
+        <div class="results-header">
+          <div>
+            <p class="eyebrow">Personalized routine</p>
+            <h2 id="summary-title">Ready when you are</h2>
+          </div>
+          <button type="button" class="secondary" id="demo-profile">Demo profile</button>
+        </div>
+
+        <div id="insights" class="insights"></div>
+        <div class="routine-grid">
+          <article>
+            <h3>AM</h3>
+            <div id="am-routine" class="routine-list empty-state">Choose a profile to generate a morning routine.</div>
+          </article>
+          <article>
+            <h3>PM</h3>
+            <div id="pm-routine" class="routine-list empty-state">Choose a profile to generate an evening routine.</div>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
